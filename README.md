@@ -1,0 +1,1 @@
+# WordPress theme for dansakamoto.com
